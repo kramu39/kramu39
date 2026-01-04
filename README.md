@@ -16,29 +16,20 @@ I care about composable contracts, clean architecture, and products designed to 
 
 ---
 
+## 🔥 GitHub Streak
+Consistency matters. This reflects time spent building, refining, and breaking things until they work.
+---
+<br/>
+<div align="center">
+![](https://nirzak-streak-stats.vercel.app/?user=kramu39&theme=vision-friendly-dark&hide_border=false)<br/>
+</div>
+
+---
 ## 📊 GitHub Stats
 A snapshot of my activity  experiments, iterations, and shipped work across Web3 and full-stack systems.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kramu39&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-Consistency matters. This reflects time spent building, refining, and breaking things until they work.
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kramu39&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🧠 Top Languages
-Languages I reach for when building smart contracts, backend logic, and Web3 interfaces.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kramu39&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
