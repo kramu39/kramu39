@@ -16,7 +16,7 @@ I care about composable contracts, clean architecture, and products designed to 
 
 ---
 
-## 🔥 GitHub Streak
+##  Streak
 Consistency matters. This reflects time spent building, refining, and breaking things until they work.
 
 <br/>
@@ -27,7 +27,7 @@ Consistency matters. This reflects time spent building, refining, and breaking t
 </div>
 
 ---
-## 📊 GitHub Stats
+##  Stats
 A snapshot of my activity  experiments, iterations, and shipped work across Web3 and full-stack systems.
 
 <div align="center">
