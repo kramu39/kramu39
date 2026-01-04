@@ -18,19 +18,23 @@ I care about composable contracts, clean architecture, and products designed to 
 
 ## 🔥 GitHub Streak
 Consistency matters. This reflects time spent building, refining, and breaking things until they work.
----
+
 <br/>
 <div align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=kramu39&theme=vision-friendly-dark&hide_border=false)<br/>
+  
+![](https://nirzak-streak-stats.vercel.app/?user=kramu39&theme=default&hide_border=false)<br/>
+
 </div>
 
 ---
 ## 📊 GitHub Stats
 A snapshot of my activity  experiments, iterations, and shipped work across Web3 and full-stack systems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kramu39&show_icons=true&theme=transparent&hide_border=true" />
-</p>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=kramu39&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+</div>  
 
 ---
 
