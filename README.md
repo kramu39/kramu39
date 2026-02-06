@@ -12,8 +12,6 @@ I care about composable contracts, clean architecture, and products designed to 
 <br/>
 
 
----
-
 <p align="center">
   <sub>kramu.base.eth</sub>
 </p>
