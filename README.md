@@ -11,15 +11,6 @@ I care about composable contracts, clean architecture, and products designed to 
 ---
 <br/>
 
----
-##  Stats
-A snapshot of my activity  experiments, iterations, and shipped work across Web3 and full-stack systems.
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=kramu39&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-</div>  
 
 ---
 
