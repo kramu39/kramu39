@@ -1,13 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0B&height=220&section=header&text=kramu.base.eth&fontSize=48&fontColor=FFFFFF&desc=Ethereum%20%7C%20Base%20%7C%20Onchain%20Builder&descSize=18&descAlignY=65" />
-</p>
 
 <h2 align="center">kramu.base.eth</h2>
-
-<p align="center">
-  Ethereum Developer · Web3 Engineer · Base Builder
-</p>
 
 ---
 I build OnChain, shipping smart contracts, onchain logic, and full-stack Web3 systems where crypto, AI, and infrastructure meet.
